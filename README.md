@@ -12,19 +12,26 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  > whoami                                                ║
-║                                                          ║
-║    Name    →  Ankita Pattnayak                           ║
-║    Degree  →  B.Tech, Computer Science & Engineering     ║
-║    Status  →  Student | Learning | Building              ║
-║    Focus   →  DSA + Web Dev + Real Projects              ║
-║    Motto   →  "Every line of code is a step forward"     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br/>
+<table>
+<tr>
+<td valign="middle">
+<pre>
+╔══════════════════════════════════════════════════╗
+║  > whoami                                        ║
+║                                                  ║
+║   Name   →  Ankita Pattnayak                     ║
+║   Degree →  B.Tech, CS & Engineering             ║
+║   Status →  Student | Learning | Building        ║
+║   Focus  →  DSA + Web Dev + Real Projects        ║
+║   Motto  →  "Every line of code is a step"       ║
+╚══════════════════════════════════════════════════╝
+</pre>
+</td>
+<td valign="middle" align="center">
+<img src="./img.png" width="250"/>
+</td>
+</tr>
+</table>  
 
 ## ⚡ Languages
 
