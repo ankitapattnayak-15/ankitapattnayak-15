@@ -1,125 +1,82 @@
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Ankita%20Pattnayak&fontColor=ffffff&fontSize=60&fontAlignY=55&desc=B.Tech%20CSE%20%7C%20Builder%20in%20Progress%20🚀&descSize=16&descAlignY=78&descFontColor=c084fc" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=180&section=header&text=Ankita%20Pattnayak&fontColor=ffffff&fontSize=58&fontAlignY=55&desc=⚡%20B.Tech%20CSE%20%7C%20Turning%20Ideas%20Into%20Code%20⚡&descSize=16&descAlignY=78&descFontColor=a78bfa" width="100%"/>
+<br/>
+
 <div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF0080&center=true&vCenter=true&multiline=false&width=550&lines=Hey+there!+I'm+Ankita+%F0%9F%91%8B%E2%9C%A8;Student.+Coder.+Creator.+%F0%9F%9A%80;One+commit+closer+to+the+dream+%F0%9F%92%AB" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/ankitapattnayak-15?style=for-the-badge&color=ff0080&labelColor=1a001a&label=Followers&logo=github&logoColor=white" />
-&nbsp;
-
+  <a href="https://github.com/ankitapattnayak-15">
+    <img src="https://img.shields.io/github/followers/ankitapattnayak-15?style=flat-square&color=c084fc&labelColor=1a1a2e&label=followers&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ankitapattnayak-15&style=flat-square&color=c084fc&labelColor=1a1a2e&label=profile+views" />
 </div>
 
----
+<br/>
 
-## 🌈 Who Am I?
-
-<table border="0">
-<tr>
-<td width="52%" valign="center">
-
-```js
-const ankita = {
-  name     : "Ankita Pattnayak ✨",
-  degree   : "B.Tech CSE 🎓",
-  based_in : "India 🇮🇳",
-  vibe     : "Chaotic coder, calm thinker 💫",
-  loves    : ["Coding 💻", "Music 🎵", ],
-  goal     : "Build. Break. Learn. Repeat. 🔁"
- 
-}
+```
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                                ║
+║                                                          ║
+║    Name    →  Ankita Pattnayak                           ║
+║    Degree  →  B.Tech, Computer Science & Engineering     ║
+║    Status  →  Student | Learning | Building              ║
+║    Focus   →  DSA + Web Dev + Real Projects              ║
+║    Motto   →  "Every line of code is a step forward"     ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td width="48%" align="center" valign="center">
- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220px"/>
-</td>
-</tr>
-</table>
+<br/>
 
----
-
-## ⚡ Tech Stack
+## ⚡ Languages
 
 <div align="center">
-
-**— Languages —**
-
-<img src="https://skillicons.dev/icons?i=c,python,java,js&theme=dark&perline=4" />
-
-<br/>
-
-**— Web & Database —**
-
-<img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark&perline=3" />
-
-<br/>
-
-**— Tools —**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
-
+  <img src="https://skillicons.dev/icons?i=c,python,java,js&theme=dark&perline=4" />
 </div>
 
----
+<br/>
+
+## 🌐 Web & Database
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark&perline=4" />
+</div>
+
+<br/>
+
+## 🛠️ Tools I Use
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapattnayak-15&theme=radical&hide_border=true&background=0d001a&ring=ff0080&fire=ffed00&currStreakLabel=ff0080&sideLabels=ff8c00&dates=7c3aed&stroke=ff0080"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapattnayak-15&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&sideLabels=c084fc" />
 </div>
 
----
+<br/>
 
-## 🎯 My Journey
+## 🗺️ What's Next
 
-<div align="center">
-
-```
-🟣 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🟠
-
-  ✅  Learned C, Python, Java & JavaScript
-  ✅  Built first web pages with HTML & CSS
-  🔥  Currently grinding DSA & SQL
-  🚧  Working on real-world projects
-  🌟  Next Stop → Open Source & Internship 🎯
-
-🟠 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🟣
+```python
+roadmap = [
+    "✅  Learn the fundamentals — C, Java, Python",
+    "🔄  DSA grind — arrays, trees, graphs...",
+    "🔄  Build full-stack web projects",
+    "⏳  Contribute to Open Source",
+    "⏳  Land a great internship 🎯",
+]
 ```
 
-</div>
+<br/>
 
----
-
-## 🌸 Currently Vibing With
+## 🤝 Connect With Me
 
 <div align="center">
-
-![DSA](https://img.shields.io/badge/DSA-Grinding%20Daily-ff0080?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a001a)
-![Web Dev](https://img.shields.io/badge/Web%20Dev-Building%20Projects-ff8c00?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a001a)
-![Java OOP](https://img.shields.io/badge/Java-OOP%20Practice-ffed00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a001a)
-![Open Source](https://img.shields.io/badge/Open%20Source-Coming%20Soon-00c9b1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a001a)
-
-</div>
-
----
-
-## 🤝 Find Me Here
-
-<div align="center">
-  <a href="https://linkedin.com/in/ankitapattnayak-15">
-    <img src="https://img.shields.io/badge/LinkedIn-1a001a?style=for-the-badge&logo=linkedin&logoColor=ff0080"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ankita@example.com">
-    <img src="https://img.shields.io/badge/Gmail-1a001a?style=for-the-badge&logo=gmail&logoColor=ff8c00"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/ankitapattnayak-15">
-    <img src="https://img.shields.io/badge/GitHub-1a001a?style=for-the-badge&logo=github&logoColor=7c3aed"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -129,14 +86,16 @@ const ankita = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80px"/>
+### 🌸 Thanks for visiting!
 
-### 🌈 *"Code is my canvas — and I'm just getting started."* ⚡
+*Started with `Hello, World!` — now chasing bigger programs.*
+*Every bug fixed is a lesson learned. Every commit is progress.*
+*Still early in the story — the best chapters are being written.* ✍️
 
-*If you liked this profile, drop a ⭐ — it means the world!* 💖
+⭐ Drop a star if you liked it &nbsp;|&nbsp; Let's connect & grow together 🌱
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
