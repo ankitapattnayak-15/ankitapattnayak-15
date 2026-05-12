@@ -52,7 +52,7 @@
 ## 🛠️ Tools I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=4" />
 </div>
 
 <br/>
