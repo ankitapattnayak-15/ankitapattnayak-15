@@ -2,38 +2,25 @@
 
 <br/>
 
+
+
+## 🌸 About Me
+
+```js
+const ankita = {
+  name     : "Ankita Pattnayak",
+  degree   : "B.Tech — CSE 🎓",
+  status   : "Student & Explorer 🌍",
+  loves    : ["Coding 💻", "Music 🎵", "Learning 📖"],
+  goal     : "Build things that matter 🚀",
+  motto    : "Every line of code is a step ✨"
+}
+```
+## 🛠️ Tech Stack
+
 <div align="center">
-  <a href="https://github.com/ankitapattnayak-15">
-    <img src="https://img.shields.io/github/followers/ankitapattnayak-15?style=flat-square&color=c084fc&labelColor=1a1a2e&label=followers&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ankitapattnayak-15&style=flat-square&color=c084fc&labelColor=1a1a2e&label=profile+views" />
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td valign="middle">
-<pre>
-╔══════════════════════════════════════════════════╗
-║  > whoami                                        ║
-║                                                  ║
-║   Name   →  Ankita Pattnayak                     ║
-║   Degree →  B.Tech, CS & Engineering             ║
-║   Status →  Student | Learning | Building        ║
-║   Focus  →  DSA + Web Dev + Real Projects        ║
-║   Motto  →  "Every line of code is a step"       ║
-╚══════════════════════════════════════════════════╝
-</pre>
-</td>
-<td valign="middle" align="center">
-<img src="./img.png" width="250"/>
-</td>
-</tr>
-</table>  
-
-## ⚡ Languages
+  
+**⚡ Languages**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,js&theme=dark&perline=4" />
@@ -41,7 +28,7 @@
 
 <br/>
 
-## 🌐 Web & Database
+**🌐 Web & Database**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark&perline=4" />
@@ -49,25 +36,21 @@
 
 <br/>
 
-## 🛠️ Tools I Use
+**🛠️ Tools I Use**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=4" />
 </div>
 
-<br/>
+<br/> 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapattnayak-15&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&sideLabels=c084fc" />
-</div>
 
-<br/>
+
 
 ## 🗺️ What's Next
 
-```python
+```
 roadmap = [
     "✅  Learn the fundamentals — C, Java, Python",
     "🔄  DSA grind — arrays, trees, graphs...",
@@ -77,17 +60,8 @@ roadmap = [
 ]
 ```
 
-<br/>
 
-## 🤝 Connect With Me
 
-<div align="center">
-  <a href="https://github.com/ankitapattnayak-15">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
 
 ---
 
@@ -105,4 +79,4 @@ roadmap = [
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
