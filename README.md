@@ -46,23 +46,6 @@ const ankita = {
 
 
 
-
-
-## 🗺️ What's Next
-
-```
-roadmap = [
-    "✅  Learn the fundamentals — C, Java, Python",
-    "🔄  DSA grind — arrays, trees, graphs...",
-    "🔄  Build full-stack web projects",
-    "⏳  Contribute to Open Source",
-    "⏳  Land a great internship 🎯",
-]
-```
-
-
-
-
 ---
 
 <div align="center">
